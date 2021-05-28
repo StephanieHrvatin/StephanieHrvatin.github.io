@@ -15,7 +15,8 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 20px;
-  }
+	
+}
   
   .left {
 	width: 50%;
@@ -45,12 +46,11 @@ a {
   @font-face{
 	  font-family:avara;
 	  src:url("fonts/Avara-Black.otf");
-
   }
 
 
   .header2 {
-	  margin-top: 50px;
+	  padding:20px;
 
   }
   
@@ -60,28 +60,21 @@ a {
 	margin-left: 20px;
 	border-radius: 25px;
 	font-size: 30px;
-	height:525px;
+	height:520px;
 	overflow: scroll;
   }
   
-  .bookcontainer {
-	margin: 20px;
-	display: flex;
-	flex-wrap: wrap;
-  }
-  
-  .book {
-	width: 50%;
-	border: 2px solid black;
-	border-radius: 25px;
-	height:350px;
-	padding: 50px;
-	margin-top:25px;
+
+  video{
+	  width:100%;
+	  border-radius: 25px;
+	  padding:20px;
   }
   
   .booklinks {
-	width: 50%;
-	margin-top:50px;
+	width: 600px;
+	margin-top:25px;
+	margin-left:50px;
 	
 
   }
@@ -92,6 +85,8 @@ a {
 	border: 2px solid black;
 	padding: 45px;
 	border-radius: 100px;
+	width:100%;
+	font-weight: bold;
 
   }
   
@@ -127,3 +122,13 @@ a {
 	right: -40px;
   }
 
+  .lisa{
+	  padding:20px;
+	  margin-left:50px;
+  }
+
+  .lifi{
+	  padding:20px;
+	  margin-left:50px;
+
+  }
