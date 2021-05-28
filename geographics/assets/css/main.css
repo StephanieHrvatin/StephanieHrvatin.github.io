@@ -1,5 +1,5 @@
 body {
-	font-family: Helvetica,Arial,sans-serif;
+	font-family:Arial, Helvetica, sans-serif, sans-serif;
 	font-size: 32px;
 }
 
@@ -7,3 +7,101 @@ a {
 	color:red;
 }
 
+* {
+	box-sizing: border-box;
+  }
+  
+  .container {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px;
+  }
+  
+  .left {
+	width: 50%;
+  }
+  
+  .right {
+	width: 50%;
+  }
+  
+  .header {
+	margin-bottom: 20px;
+	border: 2px solid black;
+	padding: 25px;
+	height:115px;
+
+
+  }
+  
+  .info {
+	border: 2px solid black;
+	padding: 20px;
+	margin-left: 20px;
+	border-radius: 25px;
+	font-size: 30px;
+	height:390px;
+	overflow: scroll;
+  }
+  
+  .bookcontainer {
+	margin: 20px;
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  .book {
+	width: 50%;
+	border: 2px solid black;
+	border-radius: 25px;
+	height:380px;
+  }
+  
+  .booklinks {
+	width: 50%;
+	margin-top:30px;
+	
+
+  }
+  
+  .link {
+	margin-left: 20px;
+	margin-bottom: 50px;
+	border: 2px solid black;
+	padding: 45px;
+	border-radius: 100px;
+
+  }
+  
+  .panel {
+	width: 600px;
+	height: 400px;
+	background-color: rgb(150, 150, 150);
+	color: rgb(0, 0, 0);
+	padding: 20px;
+	font-size: 30px;
+	position: fixed;
+	top: 30px;
+	left: 400px;
+	display:none;
+  }
+  
+  .panel.active {
+	display:block;
+  }
+  
+  .bookpanel {
+	top:400px;
+	left:10px;
+  }
+  
+  .inner {
+	position: relative;
+  }
+  
+  .close {
+	position: absolute;
+	top: -40px;
+	right: -40px;
+  }
+  
