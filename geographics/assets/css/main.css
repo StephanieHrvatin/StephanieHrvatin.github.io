@@ -29,8 +29,13 @@ a {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 25px;
-	height:115px;
+	height:250px;
 
+
+  }
+
+  .header2 {
+	  padding: 25px;
 
   }
   
@@ -104,4 +109,21 @@ a {
 	top: -40px;
 	right: -40px;
   }
+
+  .studentlink1{
+	  padding: 50px;
+  }
   
+  .studentlink2{
+	padding: 50px;
+
+  }
+
+  .studentlink3{
+	padding: 50px;
+
+  }
+
+  .studentlink4{
+	padding: 50px;
+  }
