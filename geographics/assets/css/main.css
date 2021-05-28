@@ -34,6 +34,21 @@ a {
 
   }
 
+  .header0 {
+	margin-bottom: 20px;
+	padding: 25px;
+	font-family:avara;
+	font-size: 100px;
+	
+  }
+
+  @font-face{
+	  font-family:avara;
+	  src:url("fonts/Avara-Black.otf");
+
+  }
+
+
   .header2 {
 	  margin-top: 50px;
 
@@ -61,12 +76,12 @@ a {
 	border-radius: 25px;
 	height:350px;
 	padding: 50px;
-	margin-top:100px;
+	margin-top:25px;
   }
   
   .booklinks {
 	width: 50%;
-	margin-top:125px;
+	margin-top:50px;
 	
 
   }
@@ -112,20 +127,3 @@ a {
 	right: -40px;
   }
 
-  .studentlink1{
-	  padding: 50px;
-  }
-  
-  .studentlink2{
-	padding: 50px;
-
-  }
-
-  .studentlink3{
-	padding: 50px;
-
-  }
-
-  .studentlink4{
-	padding: 50px;
-  }
