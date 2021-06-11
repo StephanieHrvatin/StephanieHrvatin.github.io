@@ -29,56 +29,55 @@ a {
   .header1 {
 	margin-bottom: 20px;
 	border: 2px solid black;
-	padding: 25px;
-	height:250px;
+	padding: 40px;
 	font-family:ABCSynt;
 	font-size: 150px;
+	text-align: center;
   }
 
   .header2 {
 	margin-bottom: 20px;
 	border: 2px solid black;
-	padding: 25px;
-	height:250px;
+	padding: 70px;
 	font-family:avara;
 	font-size: 100px;
-
+	text-align: center;
   }
 
   .header3 {
 	margin-bottom: 20px;
 	border: 2px solid black;
-	padding: 25px;
-	height:250px;
+	padding: 60px;
 	font-family:bedstead;
 	font-size: 125px;
+	text-align: center;
   }
 
   .header4 {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 25px;
-	height:250px;
 	font-family:VT323;
 	font-size: 200px;
+	text-align: center;
   }
 
   .header5 {
 	margin-bottom: 20px;
 	border: 2px solid black;
-	padding: 25px;
-	height:250px;
+	padding: 50px;
 	font-family:twee;
 	font-size: 150px;
+	text-align: center;
   }
 
   .header6 {
 	margin-bottom: 20px;
 	border: 2px solid black;
-	padding: 25px;
-	height:250px;
+	padding: 50px;
 	font-family:vraangoe;
 	font-size: 150px;
+	text-align: center;
   }
 
 
@@ -175,8 +174,10 @@ a {
   .link {
 	margin-left: 20px;
 	margin-bottom: 50px;
-	margin-top: -10px;
+	margin-top: -20px;
 	border: 2px solid black;
+	background-color: black;
+	color: white;
 	padding: 40px;
 	border-radius: 100px;
 	width:100%;
@@ -221,9 +222,8 @@ a {
 
   .lisa{
 	margin-left:50px;
-	height:150px;
 	border: 2px solid black;
-	padding: 10px;
+	padding: 35px;
 	border-radius:25px;
 	width:300px;
 	text-align: center;
@@ -233,9 +233,8 @@ a {
 
   .lifi{
 	margin-left:50px;
-	height:150px;
 	border: 2px solid black;
-	padding: 10px;
+	padding: 35px;
 	border-radius:25px;
 	width:300px;  
 	margin-top: 30px;
@@ -245,11 +244,10 @@ a {
 	
   }
 
-  .mandy{
+  .june{
 	margin-left:400px;
-	height:150px;
 	border: 2px solid black;
-	padding: 10px;
+	padding: 35px;
 	border-radius:25px;
 	width:300px;  
 	margin-top: 30px;
@@ -260,9 +258,8 @@ a {
 
   .joel{
 	margin-left:400px;
-	height:150px;
 	border: 2px solid black;
-	padding: 10px;
+	padding: 35px;
 	border-radius:25px;
 	width:300px;  
 	margin-top: 30px;
@@ -285,7 +282,7 @@ a {
 
   .class1{
 	font-size: 45pt;
-	margin-top: 52.5px;
+	margin-top: 34px;
 	letter-spacing: 20px;
 	font-family:des malers;
 	background-color: black;
