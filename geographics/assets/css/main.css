@@ -151,7 +151,7 @@ a {
 	margin-left: 20px;
 	border-radius: 25px;
 	font-size: 30px;
-	height:520px;
+	height:300px;
 	overflow: scroll;
 	font-size: 15pt;
 	line-height: 25pt;
@@ -177,11 +177,14 @@ a {
 	margin-bottom: 50px;
 	margin-top: -10px;
 	border: 2px solid black;
-	padding: 43.25px;
+	padding: 40px;
 	border-radius: 100px;
 	width:100%;
-	font-weight: bold;
-
+	font-family: josefin-sans,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	text-align: center;
+	font-size: 50px;
   }
   
   .panel {
@@ -217,22 +220,55 @@ a {
   }
 
   .lisa{
-	margin-left:175px;
-	height:175px;
+	margin-left:50px;
+	height:150px;
 	border: 2px solid black;
-	padding: 15px;
+	padding: 10px;
 	border-radius:25px;
-	width:50%;
+	width:300px;
+	text-align: center;
+	font-family:twee;
+	font-size: 75px;
   }
 
   .lifi{
-	margin-left:175px;
-	height:175px;
+	margin-left:50px;
+	height:150px;
 	border: 2px solid black;
-	padding: 15px;
+	padding: 10px;
 	border-radius:25px;
-	width:50%;  
+	width:300px;  
 	margin-top: 30px;
+	text-align: center;
+	font-family:twee;
+	font-size: 75px;
+	
+  }
+
+  .mandy{
+	margin-left:400px;
+	height:150px;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius:25px;
+	width:300px;  
+	margin-top: 30px;
+	text-align: center;
+	font-family:twee;
+	font-size: 70px;
+  }
+
+  .joel{
+	margin-left:400px;
+	height:150px;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius:25px;
+	width:300px;  
+	margin-top: 30px;
+	text-align: center;
+	font-family:twee;
+	font-size: 75px;
   }
 
   .info em{
@@ -247,11 +283,22 @@ a {
 	  font-size: 40pt;
   }
 
-  .class{
+  .class1{
+	font-size: 45pt;
+	margin-top: 52.5px;
+	letter-spacing: 20px;
+	font-family:des malers;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+  .class2{
 	  font-size: 45pt;
 	  margin-top: 25px;
 	  letter-spacing: 20px;
 	  font-family:des malers;
 	  background-color: black;
 	  color: white;
+	  text-align: center;
   }
