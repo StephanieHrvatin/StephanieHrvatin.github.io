@@ -8,10 +8,14 @@ $(document).ready(function () {
     $(".close").click(function() {
         $(this).closest(".panel").removeClass("active");
     });  
-    
-      $(".bookbutton").click(function() {
-        $(".bookpanel").addClass("active");
-    });
+
+    $(".earthbutton").click(function() {
+      $(".earthpanel").addClass("active");
+  });
+
+  $(".close").click(function() {
+    $(this).closest(".panel2").removeClass("active");
+}); 
     
   });
   

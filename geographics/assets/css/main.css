@@ -27,7 +27,7 @@ a {
 	width: 50%;
   }
   
-  .header1 {
+  .user {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 40px;
@@ -36,13 +36,13 @@ a {
 	text-align: center;
   }
 
-  .header1:hover{
+  .user:hover{
 	  background-color: black;
 	  border:2px solid black;
 	  color:orange;
   }
 
-  .header2 {
+  .interface {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 70px;
@@ -51,13 +51,13 @@ a {
 	text-align: center;
   }
 
-  .header2:hover{
+  .interface:hover{
 	background-color: black;
 	border:2px solid black;
 	color:orange;
 }
 
-  .header3 {
+  .address {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 60px;
@@ -66,14 +66,14 @@ a {
 	text-align: center;
   }
 
-  .header3:hover{
+  .address:hover{
 	background-color: black;
 	border:2px solid black;
 	color:orange;
 }
 
 
-  .header4 {
+  .city {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 25px;
@@ -82,13 +82,13 @@ a {
 	text-align: center;
   }
 
-  .header4:hover{
+  .city:hover{
 	background-color: black;
 	border:2px solid black;
 	color:orange;
 }
 
-  .header5 {
+  .cloud {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 50px;
@@ -97,13 +97,13 @@ a {
 	text-align: center;
   }
 
-  .header5:hover{
+  .cloud:hover{
 	background-color: black;
 	border:2px solid black;
 	color:orange;
 }  
 
-  .header6 {
+  .earth {
 	margin-bottom: 20px;
 	border: 2px solid black;
 	padding: 50px;
@@ -112,7 +112,7 @@ a {
 	text-align: center;
   }
 
-  .header6:hover{
+  .earth:hover{
 	background-color: black;
 	border:2px solid black;
 	color:orange;
@@ -226,7 +226,7 @@ a {
   
   .panel {
 	width: 600px;
-	height: 400px;
+	height: 600px;
 	background-color:orange;
 	color: rgb(0, 0, 0);
 	padding: 20px;
@@ -334,6 +334,7 @@ a {
   .panel1{
 	  font-size: 40pt;
 	  line-height: 70px;
+	  padding: 50px;
   }
 
   .class1{
